@@ -1,0 +1,279 @@
+{
+    "cases": [
+        [
+            {"typeCase": "MUR"},
+            {"typeCase": "MUR"},
+            {
+                "pions": [{
+                    "couleur": "NOIR",
+                    "nom": "Feuille"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "NOIR",
+                    "nom": "Feuille"
+                }
+            },
+            {
+                "pions": [{
+                    "couleur": "NOIR",
+                    "nom": "Ciseaux"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "NOIR",
+                    "nom": "Ciseaux"
+                }
+            },
+            {
+                "pions": [{
+                    "couleur": "NOIR",
+                    "nom": "Pierre"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "NOIR",
+                    "nom": "Pierre"
+                }
+            },
+            {"typeCase": "MUR"},
+            {"typeCase": "MUR"}
+        ],
+        [
+            {"typeCase": "MUR"},
+            {"typeCase": "MUR"},
+            {
+                "pions": [{
+                    "couleur": "NOIR",
+                    "nom": "Ciseaux"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "NOIR",
+                    "nom": "Ciseaux"
+                }
+            },
+            {
+                "pions": [{
+                    "couleur": "NOIR",
+                    "nom": "Pierre"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "NOIR",
+                    "nom": "Pierre"
+                }
+            },
+            {
+                "pions": [{
+                    "couleur": "NOIR",
+                    "nom": "Feuille"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "NOIR",
+                    "nom": "Feuille"
+                }
+            },
+            {"typeCase": "MUR"},
+            {"typeCase": "MUR"}
+        ],
+        [
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [{
+                    "couleur": "NOIR",
+                    "nom": "Puit"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "NOIR",
+                    "nom": "Puit"
+                }
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [{
+                    "couleur": "NOIR",
+                    "nom": "Puit"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "NOIR",
+                    "nom": "Puit"
+                }
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            }
+        ],
+        [
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [{
+                    "couleur": "BLANC",
+                    "nom": "Puit"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "BLANC",
+                    "nom": "Puit"
+                }
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            }
+        ],
+        [
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            },
+            {
+                "pions": [{
+                    "couleur": "BLANC",
+                    "nom": "Puit"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "BLANC",
+                    "nom": "Puit"
+                }
+            },
+            {
+                "pions": [],
+                "typeCase": "VIDE"
+            }
+        ],
+        [
+            {"typeCase": "MUR"},
+            {"typeCase": "MUR"},
+            {
+                "pions": [{
+                    "couleur": "BLANC",
+                    "nom": "Feuille"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "BLANC",
+                    "nom": "Feuille"
+                }
+            },
+            {
+                "pions": [{
+                    "couleur": "BLANC",
+                    "nom": "Pierre"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "BLANC",
+                    "nom": "Pierre"
+                }
+            },
+            {
+                "pions": [{
+                    "couleur": "BLANC",
+                    "nom": "Ciseaux"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "BLANC",
+                    "nom": "Ciseaux"
+                }
+            },
+            {"typeCase": "MUR"},
+            {"typeCase": "MUR"}
+        ],
+        [
+            {"typeCase": "MUR"},
+            {"typeCase": "MUR"},
+            {
+                "pions": [{
+                    "couleur": "BLANC",
+                    "nom": "Pierre"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "BLANC",
+                    "nom": "Pierre"
+                }
+            },
+            {
+                "pions": [{
+                    "couleur": "BLANC",
+                    "nom": "Ciseaux"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "BLANC",
+                    "nom": "Ciseaux"
+                }
+            },
+            {
+                "pions": [{
+                    "couleur": "BLANC",
+                    "nom": "Feuille"
+                }],
+                "typeCase": "PION",
+                "pionDessus": {
+                    "couleur": "BLANC",
+                    "nom": "Feuille"
+                }
+            },
+            {"typeCase": "MUR"},
+            {"typeCase": "MUR"}
+        ]
+    ],
+    "actualPlayerColor": "NOIR"
+}
